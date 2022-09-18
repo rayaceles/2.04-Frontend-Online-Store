@@ -6,7 +6,7 @@ Além do código desenvolvido em si, também foram utilizadas ferramentas de met
 
 Obs.: O CSS não foi desenvolvido aqui.
 
-Os projeto será revisado.
+O projeto será revisado.
 
 ## Sumário
 
