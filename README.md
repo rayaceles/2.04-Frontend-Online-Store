@@ -80,6 +80,7 @@ Para organizar as atividades da equipe e dividir as tarefas através de um model
 15. Visualização de quais produtos tem o frete grátis
 
 Por fazer:
+
 16. Layout responsivo
 17. Seletor para ordenação crescente e decrescente para por preço
 
